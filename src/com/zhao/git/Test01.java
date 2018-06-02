@@ -6,5 +6,6 @@ public class Test01 {
 		System.out.println("hello github server!! 02");
 		//git hub update 01
 		System.out.println("hello github server!! 03");
+		System.out.println("GitHub response to local!! 02");
 	}
 }
