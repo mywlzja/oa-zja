@@ -8,5 +8,6 @@ public class Test01 {
 		System.out.println("hello github server!! 03");
 		System.out.println("GitHub response to local!! 02");
 		System.out.println("hello github server!! 03");
+		String x=new String();
 	}
 }
