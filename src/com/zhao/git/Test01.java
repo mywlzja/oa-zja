@@ -10,5 +10,6 @@ public class Test01 {
 		System.out.println("hello github server!! 03");
 		String x=new String();
 		//just a test
+		//zai zai is not guai 
 	}
 }
